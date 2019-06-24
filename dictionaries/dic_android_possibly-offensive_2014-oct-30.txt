@@ -112,7 +112,7 @@ copulation	f=79	medical
 naughty	f=79
 sucks	f=79
 castrated	f=78	medical
-counteroffensive	f=78		originalFreq=78
+counteroffensive	f=78	
 dyke	f=78
 nudes	f=78	medical
 testis	f=78	medical
@@ -172,7 +172,7 @@ uridine	f=73	medical
 utero	f=73	medical
 bestiality	f=72
 hermaphroditic	f=72	medical
-hoe	f=72		 shortcut=how	f=whitelist
+hoe	f=72	 <how>	whitelist
 intersex	f=72	medical
 pubis	f=72	medical
 rapists	f=72	offensive
@@ -221,7 +221,7 @@ whores	f=66	offensive
 bareback	f=65
 buxom	f=65	babytalk
 gonorrhea	f=65	medical
-inoffensive	f=65		originalFreq=65
+inoffensive	f=65	
 kinky	f=65
 naturism	f=65
 pederasty	f=65	medical
@@ -246,7 +246,7 @@ ureter	f=64	medical
 voyeurism	f=64
 Hooker's	f=63	babytalk
 groping	f=63
-hoes	f=63		 shortcut=how's	f=whitelist
+hoes	f=63	<how's>	whitelist
 pudendal	f=63	medical
 swingers	f=63
 babes	f=62
@@ -318,7 +318,7 @@ transsexuality	f=56	medical
 uremia	f=56	medical
 wanker	f=56	offensive
 whorehouse	f=56	offensive
-counteroffensives	f=55		originalFreq=55
+counteroffensives	f=55	
 hermaphroditism	f=55	medical
 hypersexuality	f=55	medical
 masturbates	f=55	medical
@@ -586,7 +586,7 @@ uricase	f=31	medical
 vasectomized	f=31	medical
 cootch	f=30	offensive
 gangbanging	f=30
-goddammit	f=30	nonword:offensive
+goddammit	f=30	nonword	offensive
 gonadectomy	f=30	medical
 pooping	f=30	babytalk
 sexualism	f=30	medical
@@ -728,8 +728,8 @@ coochie	f=18	offensive
 fagot	f=18
 fagots	f=18
 hetaeras	f=18	medical
-inoffensively	f=18		originalFreq=18
-inoffensiveness	f=18		originalFreq=18
+inoffensively	f=18	
+inoffensiveness	f=18	
 intermenstrual	f=18	medical
 invaginating	f=18	medical
 lecherously	f=18	medical
@@ -798,7 +798,7 @@ urethrotome	f=15	medical
 uricotelic	f=15	medical
 urines	f=15	medical
 vagitus	f=15	medical
-walrus's	f=15	offensive	originalFreq=15
+walrus's	f=15	offensive	
 Heiny	f=10	babytalk
 Labia's	f=10	medical
 autosexing	f=10	medical
@@ -996,7 +996,7 @@ semination	f=1	medical
 sexualist	f=1	medical
 sodomite's	f=1	medical
 sodomizer	f=1	medical
-sonuvabitch	f=1	offensive:nonword
+sonuvabitch	f=1	offensive	nonword
 spermatocide	f=1	medical
 spermatocystic	f=1	medical
 spermatophore's	f=1	medical
